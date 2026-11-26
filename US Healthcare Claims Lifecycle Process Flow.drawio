@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="J94WkP-TAKyn9HqAUYv8">
+    <mxGraphModel dx="2389" dy="1408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9OjoN2cjJVuka4oYuSlb-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#17324D;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;US HEALTHCARE CLAIMS LIFECYCLE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="580" x="160" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9OjoN2cjJVuka4oYuSlb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#646464;fontStyle=1" value="&lt;code&gt;&lt;span&gt;End-to-End Process | Claim Submission, Adjudication, Payment &amp;amp; Follow-up&lt;/span&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="30" width="600" x="170" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9OjoN2cjJVuka4oYuSlb-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#eaf2f8, #ededed);strokeColor=#000000;" value="&#xa;&lt;span&gt;&lt;strong&gt;PATIENT RECEIVES&lt;/strong&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span&gt;&lt;strong&gt;HEALTHCARE SERVICE&lt;/strong&gt;&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="70" width="220" x="320" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-4" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#eaf2f8, #ededed);strokeColor=#000000;fontColor=#000000;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b&gt;PROVIDER PREPARES AND SUBMITS CLAIM&lt;/b&gt;&lt;/font&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-2" edge="1" parent="1" source="9OjoN2cjJVuka4oYuSlb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.473;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-8" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#eaf2f8, #ededed);strokeColor=#000000;fontColor=#000000;" value="&lt;code&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b&gt;PAYER RECEIVES AND VALIDATES &lt;/b&gt;&lt;/font&gt;&lt;b&gt;CLAIM&lt;/b&gt;&lt;/code&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="320" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-10" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-16" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-14">
+          <mxGeometry relative="1" x="0.0036" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="530" />
+              <mxPoint x="720" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#FFF2D9;strokeColor=#17324D;fontStyle=0;rounded=0;" value="&lt;strong&gt;CLAIM COMPLETE AND VALID?&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="100" width="180" x="340" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-19" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FCE8E6;strokeColor=#C62828;" value="&lt;strong&gt;RETURN CLAIM FOR CORRECTION&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="60" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-30" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-14" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8F4EF;strokeColor=#388E3C;" value="&lt;strong&gt;PROCEED TO CLAIM ADJUDICATION&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="620" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Yes&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE2tuLqDUkUBQvmUDPg3-1" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#17324D;" value="&lt;strong&gt;PROVIDER CORRECTS AND RESUBMITS CLAIM&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="60" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-32" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#17324D;" value="&lt;strong&gt;PAYER ADJUDICATES CLAIM&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="620" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-36" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-37" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-39" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=-0.019;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-31" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#FFF2D9;strokeColor=#17324D;" value="&lt;strong&gt;WHAT IS THE CLAIM OUTCOME?&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="110" width="190" x="625" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-44" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E8F4EF;" value="&lt;p&gt;&lt;strong&gt;PAID CLAIM&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Payment Issued &amp;amp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;EOB Generated&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="360" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-57" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-34" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFF2D9;strokeColor=#D99000;" value="&lt;p&gt;&lt;strong&gt;PARTIALLY PAID CLAIM&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Partial Payment Issued &amp;amp; Balance Outstanding&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="627" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-46" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FCE8E6;strokeColor=#C62828;" value="&lt;p&gt;&lt;strong&gt;DENIED CLAIM&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Denial Reason Communicated&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="890" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Paid&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Partially Paid&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Denied&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="870" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-59" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E8F4EF;" value="&lt;p&gt;&lt;strong&gt;PAYMENT RECONCILIATION&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Verify Payer Payment Against Allowed Amount&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-48" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FCE8E6;strokeColor=#C62828;" value="&lt;p&gt;&lt;strong&gt;DENIAL MANAGEMENT&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Review Denial Reason &amp;amp; Identify Corrective Action&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="890" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-67" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-47" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FCE8E6;strokeColor=#C62828;" value="&lt;p&gt;&lt;strong&gt;APPEAL / CORRECTED CLAIM SUBMISSION&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Submit Appeal or Corrected Claim to Payer&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="890" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-60" edge="1" parent="1" source="VDi1dKnRvLBcl0HpnTO4-49" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDi1dKnRvLBcl0HpnTO4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#FFF2D9;strokeColor=#D99000;" value="&lt;p&gt;&lt;strong&gt;ACCOUNTS RECEIVABLE (AR) FOLLOW-UP&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Track Outstanding Balance &amp;amp; Pending Payment&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="627" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="VDi1dKnRvLBcl0HpnTO4-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#E8F4EF;" value="&lt;p&gt;&lt;strong&gt;CLAIM RESOLUTION &amp;amp; CLOSURE&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;code&gt;Verify Final Payment and Close Claim&lt;/code&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="500" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE2tuLqDUkUBQvmUDPg3-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Resubmission&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="110" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
